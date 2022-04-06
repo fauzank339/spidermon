@@ -28,7 +28,7 @@ Spidermon
 Overview
 ========
 
-Spidermon is an extension for Scrapy spiders. The package provides useful tools for data validation, stats monitoring, and notification messages. This way you leave the monitoring task to Spidermon and just check the reports/notifications.
+Spidermon is an extension for Scrapy spiders. The package provides useful tools for data validation, stats monitoring and notification messages. This way you leave the monitoring task to Spidermon and just check the reports/notifications.
 
 Requirements
 ============
